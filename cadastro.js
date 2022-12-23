@@ -7,3 +7,12 @@ function switch (key) {
 		break;
 }
 //pegando o email e cadastrando na plataforma.gi
+
+WebGLUniformLocation	
+getComputedStyle	
+
+function getComputedStyle
+
+
+//adicionando funcion de mensagens
+
